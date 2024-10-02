@@ -127,13 +127,12 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://salmanfaris22.github.io/salmanfaris/](https://salmanfaris22.github.io/salmanfaris/)
+- 👨‍💻 All of my projects are available at https://github.com/Arunkanakkillam
+- 💬 Ask me about **React, C#, GIS**
 
-- 💬 Ask me about **MERN , GOlang**
+- 📫 How to reach me **arunkanakkillam70@gmail.com**
 
-- 📫 How to reach me **salmanfariskalm@gmail.com**
 
-- ⚡ Fun fact **I Think I'm Funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/salman faris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salman faris" height="30" width="40" /></a>
@@ -145,7 +144,7 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/salman567633800?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/Arunkanakkillam?theme=dark)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" /></p>
