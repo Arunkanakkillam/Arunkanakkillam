@@ -78,7 +78,7 @@
     </td>
       </td>
      <td align="center" width="96">
-       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBH-1xgO3YtvHDtw3ijUfjC-QAP1FjLVVhqA&s" alt="postman" width="40" height="40"/>
+       <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="postman" width="40" height="40"/>
       <br>C#
     </td>
   <td align="center" width="96">
