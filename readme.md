@@ -21,10 +21,6 @@
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="62" height="62" />
       <br>Redux Toolkit
     </td>
-    <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8trpuoU0r6uxu0DGSgIZy8L1giEvSLCDplA&s" width="48" height="48" alt="PostgreSQL" />
-      <br>ArcGIS
-    </td>
     <td align="center" width="96"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
@@ -67,6 +63,10 @@
    <td align="center" width="96">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjVCKPOUVIdyAtkmiQEEhUDPmy-YtyNa62uQ&s" alt="icon" width="65" height="65](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png)" />
       <br>QGIS
+    </td>
+ <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8trpuoU0r6uxu0DGSgIZy8L1giEvSLCDplA&s" width="48" height="48" alt="PostgreSQL" />
+      <br>ArcGIS
     </td>
     </td>
     </td>
