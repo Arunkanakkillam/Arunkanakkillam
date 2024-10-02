@@ -5,10 +5,6 @@
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
       <br>React
     </td>
-   <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjVCKPOUVIdyAtkmiQEEhUDPmy-YtyNa62uQ&s" alt="icon" width="65" height="65](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png)" />
-      <br>QGIS
-    </td>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
@@ -67,6 +63,10 @@
   <td align="center" width="96">
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjWd3642ndd53cHpYQgtrr1oABSI8rzLU1g&s" alt="figma" width="40" height="40"/>
       <br>Google Earth Pro
+    </td>
+   <td align="center" width="96">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjVCKPOUVIdyAtkmiQEEhUDPmy-YtyNa62uQ&s" alt="icon" width="65" height="65](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png)" />
+      <br>QGIS
     </td>
     </td>
     </td>
