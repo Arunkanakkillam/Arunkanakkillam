@@ -60,10 +60,6 @@
     </td>
  <tr>
   </tr>
-   <td align="center" width="96">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  /> 
-      <br>Material Ui
-    </td>
     </td>
      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -75,23 +71,15 @@
       <br>C
     </td>
      </td>
-      <td align="center" width="96">
-       <img src="https://w7.pngwing.com/pngs/935/1018/png-transparent-jira-cloud-macos-bigsur-icon-thumbnail.png" alt="icon" width="62" height="62" />
-      <br>JIRA
-    </td>
-    </td>
-      <td align="center" width="96">
-       <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="62" height="62" />
-      <br>Prettier
-    </td>    
+</td>    
  <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
       </td>
      <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-      <br>Postman
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBH-1xgO3YtvHDtw3ijUfjC-QAP1FjLVVhqA&s" alt="postman" width="40" height="40"/>
+      <br>C#
     </td>
   <td align="center" width="96">
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjWd3642ndd53cHpYQgtrr1oABSI8rzLU1g&s" alt="figma" width="40" height="40"/>
