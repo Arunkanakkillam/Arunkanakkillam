@@ -93,13 +93,9 @@
        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
       <br>Postman
     </td>
- <td align="center" width="96">
-       <img src="http://jwt.io/img/icon.svg" alt="icon" width="62" height="62"  />
-      <br>JWT
-    </td>
   <td align="center" width="96">
-       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      <br>Figma
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVjWd3642ndd53cHpYQgtrr1oABSI8rzLU1g&s" alt="figma" width="40" height="40"/>
+      <br>Google Earth Pro
     </td>
     </td>
     </td>
@@ -120,12 +116,7 @@
 
 
 
-
-
-
-- 🔭 I’m currently working on **E-Commerce**
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at https://github.com/Arunkanakkillam
 - 💬 Ask me about **React, C#, GIS**
@@ -146,9 +137,9 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Arunkanakkillam?theme=dark)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunkanakkillam&show_icons=true&locale=en" alt="Arunkanakkillam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunkanakkillam&show_icons=true&locale=en" alt="Arun k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunkanakkillam&" alt="Arun k" /></p>
 
-![Footer](https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg)
+
 
