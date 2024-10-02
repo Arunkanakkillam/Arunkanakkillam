@@ -146,12 +146,9 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Arunkanakkillam?theme=dark)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunkanakkillam
-&show_icons=true&locale=en" alt="salmanfaris22" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunkanakkillam
-&" alt="Arunkanakkillam" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" /></p>
 
 ![Footer](https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg)
 
