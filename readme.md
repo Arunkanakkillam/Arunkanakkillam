@@ -148,7 +148,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanfaris22&show_icons=true&locale=en" alt="salmanfaris22" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salmanfaris22&" alt="salmanfaris22" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunkanakkillam
+&" alt="Arunkanakkillam" /></p>
 
 
 ![Footer](https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg)
