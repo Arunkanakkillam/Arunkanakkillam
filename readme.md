@@ -69,10 +69,8 @@
       <br>ArcGIS
   
     </td>
-    <td>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png/">
-    <br>Postman
-    </td>
+  </td>
+  </td>
  </tr>
 
 </table>
