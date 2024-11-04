@@ -68,7 +68,7 @@
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8trpuoU0r6uxu0DGSgIZy8L1giEvSLCDplA&s" width="48" height="48" alt="PostgreSQL" />
       <br>ArcGIS
   
-    </td>
+   
   </td>
   </td>
  </tr>
