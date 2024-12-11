@@ -80,6 +80,9 @@
   <td  align="center" width="96">
    <img src="https://imgs.search.brave.com/ShxgIJQwDkWF8jRoj4FGovf9JuLD-VqY2SEA2SR0Mok/rs:fit:860:0:0:0/g:ce/aHR0cDovL3d3dy5u/ZXdkZXNpZ25maWxl/LmNvbS9wb3N0cGlj/LzIwMTAvMDEvbWlj/cm9zb2Z0LXNxbC1z/ZXJ2ZXItaWNvbnNf/ODk2MDAucG5n"/>
   </td>
+  
+ </tr>
+ <tr>
     <td  align="center" width="96">
    <img src="https://www.remoterocketship.com/images/blog/Entity%20Framework-icon-for-blog.jpg" alt="EntityFramework"/>
   </td>
