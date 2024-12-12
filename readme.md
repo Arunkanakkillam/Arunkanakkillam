@@ -86,6 +86,9 @@
     <td  align="center" width="96">
    <img src="https://www.remoterocketship.com/images/blog/Entity%20Framework-icon-for-blog.jpg" alt="EntityFramework"/>
   </td>
+  <td align="center" width="96">
+   <img src="https://imgs.search.brave.com/G8i_afQAUJrPfFD6fKm5AQSmWNRN76ZRTPkR_V8uujo/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/OTdfRG9ja2VyX2xv/Z29fbG9nb3MtNTEy/LnBuZw" alt="docker"/>
+  </td>
  </tr>
 
 </table>
