@@ -100,8 +100,12 @@
 
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkanakkillam&layout=compact&theme=gruvbox)
 
 
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunkanakkillam&show_icons=true&theme=gruvbox)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkanakkillam&layout=compact&theme=gruvbox)
 
 
 
