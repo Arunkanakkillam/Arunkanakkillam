@@ -99,17 +99,6 @@
 
 
 
-
-
-
-
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arunkanakkillam&show_icons=true&theme=gruvbox)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkanakkillam&layout=compact&theme=gruvbox)
-
-
-
-
 - 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at https://github.com/Arunkanakkillam
@@ -131,7 +120,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Arunkanakkillam?theme=dark)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunkanakkillam&show_icons=true&locale=en" alt="Arun k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Arunkanakkillam&show_icons=true&theme=gruvbox" alt="Arun k" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Arunkanakkillam&" alt="Arun k" /></p>
 
