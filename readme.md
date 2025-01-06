@@ -1,4 +1,9 @@
- <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
+<div  xmlns="http://www.w3.org/1999/xhtml"  id="metrics-end">
+  <h1>
+    <img src="https://profile-counter.glitch.me/{Arunkanakkillam}/count.svg" alt="Visitor Count">
+  </h1>
+</div>
+
 <table align="center">
   <tr>
     <td align="center" width="96">
