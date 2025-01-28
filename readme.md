@@ -108,7 +108,7 @@
 - 💬 Ask me about **React, C#, GIS**
 
 - 📫 How to reach me **arunkanakkillam70@gmail.com**
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arunkanakkillam&layout=compact&theme=gruvbox" alt="Arunkanakkillam"/></p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
